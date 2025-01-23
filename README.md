@@ -35,13 +35,13 @@ pip install paramiko
 
 1. clone the repository:
    ```bash
-   git clone https://github.com/yourusername/log-analyzer-tkinter.git
+   git clone https://github.com/rnadjqaim/requests-analysis
    cd log-analyzer-tkinter
    ```
 
 2. run the application:
    ```bash
-   python log_analyzer.py
+   python3 log_analyzer.py
    ```
 
 3. use the gui to:
@@ -52,7 +52,7 @@ pip install paramiko
 ## file structure
 
 ```
-log-analyzer-tkinter/
+lrequest-analysis/
 |-- log_analyzer.py  # main application file
 |-- readme.md        # documentation
 ```
